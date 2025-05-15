@@ -39,7 +39,7 @@ Prim’s MST: Since we’re using an adjacency matrix, each vertex checks all ot
 ## Assumption
 The input graph is connected and undirected
 
-Vertices are labeled from 0 to V-1.
+Also, vertices are labeled from 0 to V-1.
 
 ## Test Case Description
 
